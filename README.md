@@ -1,6 +1,4 @@
------------------------------------------------------------------------------
-System backup from 29th of January, 2023 after the owner's deposit disappears
------------------------------------------------------------------------------
+<h1 align="center">System backup from 29th of January, 2023 after the owner's deposit disappears</h1>
 
 # kult-divinity-lost
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->

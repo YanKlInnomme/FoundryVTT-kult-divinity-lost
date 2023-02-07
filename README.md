@@ -1,3 +1,7 @@
+--------------------
+System backup after the owner's deposit disappears from 29th of January, 2023
+--------------------
+
 # kult-divinity-lost
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)

@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------
-System backup after the owner's deposit disappears from 29th of January, 2023
+System backup from 29th of January, 2023 after the owner's deposit disappears
 -----------------------------------------------------------------------------
 
 # kult-divinity-lost

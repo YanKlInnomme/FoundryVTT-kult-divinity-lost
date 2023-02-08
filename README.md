@@ -26,7 +26,7 @@ https://gitlab.com/fattom23/kult4e-foundry/-/tree/1.1
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="http://www.comunidadumbria.com"><img src="https://avatars.githubusercontent.com/u/985713?v=4?s=100" width="100px;" alt="Roberto Lorite"/><br /><sub><b>Roberto Lorite</b></sub></a><br /><a href="https://github.com/astarte-horns/kult-divinity-lost/commits?author=sharak" title="Code">💻</a></td>
+      <td align="center"><a href="http://www.comunidadumbria.com"><img src="https://avatars.githubusercontent.com/u/985713?v=4?s=100" width="100px;" alt="Roberto Lorite"/><br /><sub><b>Roberto Lorite</b></sub></a><br /><a href="https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost/commits?author=sharak" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
